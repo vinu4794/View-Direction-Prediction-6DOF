@@ -1,4 +1,5 @@
 # View Direction Prediction for 6DOF Immersive Content
+By Utkarsh Shekhar and Vishnuram Hariharan
 
 ## Overview:
 We developed a model which is a hybrid of the LSTM and CNN architectures that can predict the gaze direction based on the past data of head rotation and body movement. 
